@@ -1,2 +1,2 @@
 # Hawaii_Climate_Vacation
-SQL Alchemy homeork
+An analysis of climate data in Hawaii, using SQL Alchemy, to determine the optimal time to vacation!
